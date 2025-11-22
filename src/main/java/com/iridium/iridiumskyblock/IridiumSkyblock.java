@@ -276,7 +276,7 @@ public class IridiumSkyblock extends IridiumTeams<Island, User> {
     @Override
     public void initializeBankItem() {
         super.initializeBankItem();
-        addBankItem(getBankItems().crystalsBankItem);
+        // addBankItem(getBankItems().crystalsBankItem);
     }
 
     @Override
